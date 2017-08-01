@@ -1,0 +1,39 @@
+main {
+  padding: 30px;
+  width: 800px;
+  height: 500px;
+  font-size: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.toprow {
+	width: 50%; 
+ 	height: 40%;
+ 	border: 1px black solid;
+ 	display: inline-block;
+}
+
+.toprow1 {
+	background-color: green;
+}
+.toprow2 {
+	background-color: blue;
+}
+
+.bottomrow {
+	width: 33.33%; 
+ 	height: 60%;
+ 	border: 1px black solid;
+ 	display: inline-block;
+}
+
+.bottomrow1 {
+	background-color: grey;
+}
+.bottomrow2 {
+	background-color: black;
+}
+.bottomrow3 {
+	background-color: orange;
+}
